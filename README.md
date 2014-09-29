@@ -1,4 +1,4 @@
-lcne
+LCNE-Code
 ====
 
 LiveCodeNet Ensamble connection code and play code.
